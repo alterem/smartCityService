@@ -45,7 +45,7 @@
 		<taglibs-version>1.1.2</taglibs-version>
 		<freemarker-version>2.3.23</freemarker-version>
 		<mail-version>1.4</mail-version>
-		<jackson-version>2.6.5</jackson-version>
+		<jackson-version>2.9.9</jackson-version>
 		<swagger-version>2.4.0</swagger-version>
 		<aspectjweaver-version>1.8.9</aspectjweaver-version>
 		<apache-commons-version>3.1.0</apache-commons-version>
