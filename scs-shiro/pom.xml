@@ -14,7 +14,7 @@
     <description>权限模块</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<commons-io-version>2.5</commons-io-version>
+		<commons-io-version>2.7</commons-io-version>
 	</properties>
 	<dependencies>
 		<dependency>
